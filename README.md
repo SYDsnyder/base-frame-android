@@ -1,0 +1,2 @@
+# base-frame-android
+基于kotlin协程实现MVVM模式的基本Android框架，对retrofit进行二次封装，一行代码实现网络请求
