@@ -1,0 +1,42 @@
+<resources>
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+      <!-- Customize your theme here. -->
+      <item name="android:textColor">#000000</item>
+      <item name="android:windowTranslucentStatus">true</item>
+<!--      <item name="android:fitsSystemWindows">true</item>-->
+  </style>
+
+  <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+  <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+  <style name="LaunchTheme" parent="AppTheme">
+      <item name="android:windowBackground">@color/white</item>
+  </style>
+
+  <style name="AppTheme.NoActionBar">
+      <item name="android:windowActionBar">false</item>
+      <item name="android:windowNoTitle">true</item>
+  </style>
+
+    <!--自定义耗时对话框-->
+    <style name="CustomProgressDialog" parent="Theme.AppCompat.Dialog">
+        <!--此属性控制悬浮窗背景是否变暗-->
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+    </style>
+
+    <style name="DialogNoPaddingTheme" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:background">@null</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowBackground"> @android:color/transparent </item>
+    </style>
+
+    <style name="tab_layout">
+    <item name="android:textSize">16sp</item>
+    </style>
+</resources>

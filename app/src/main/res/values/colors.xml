@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#FFFFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="green">#70CB7F</color>
+    <color name="c_ee">#eeeeee</color>
+    <color name="c_292832">#292832</color>
+    <color name="c_cdad82">#CDAD82</color>
+    <color name="c_d3b5a6">#D3B5A6</color>
+    <color name="c_dcdee5">#DCDEE5</color>
+    <color name="c_cc">#CCCCCC</color>
+    <color name="c_99">#999999</color>
+    <color name="c_66">#666666</color>
+    <color name="c_33">#333333</color>
+    <color name="c_f6">#f6f6f6</color>
+    <color name="c_d0">#d0d0d0</color>
+    <color name="c_33_ff">#33ffffff</color>
+    <color name="c_99_ff">#99ffffff</color>
+    <color name="c_cc_00">#CC000000</color>
+    <color name="c_33_00">#33000000</color>
+    <color name="c_f5">#F5F5F5</color>
+    <color name="c_1c">#1C1C1F</color>
+    <color name="c_0091ff">#0091ff</color>
+    <color name="c_2f2d3a">#2F2D3A</color>
+    <color name="c_ef4646">#EF4646</color>
+    <color name="c_ff001d">#FF001D</color>
+    <color name="c_d0121b">#D0121B</color>
+    <color name="c_18_d0121b">#18D0121B</color>
+    <color name="c_dd_d0121b">#DDD0121B</color>
+    <color name="c_ecc7a9">#ECC7A9</color>
+    <color name="c_e5e6ec">#E5E6EC</color>
+    <color name="c_f5f6fa">#F5F6FA</color>
+    <color name="c_4cbd5e">#4CBD5E</color>
+    <color name="c_18_4cbd5e">#184CBD5E</color>
+</resources>

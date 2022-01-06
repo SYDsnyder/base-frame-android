@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="dlx_icon" format="reference" />
+    <attr name="dlx_txt" format="string" />
+    <declare-styleable name="IconTvView">
+        <attr name="dlx_icon" />
+        <attr name="dlx_txt" />
+    </declare-styleable>
+</resources>
