@@ -3,12 +3,12 @@
 
 
 
-// 账号密码登录
+eg: // 账号密码登录
 
-fun userLogin(account: String, password: String) {
+    fun userLogin(account: String, password: String) {
 
-    launch({ mService.userLogin(account, password) }, loginData)
-    
-}
+        launch({ mService.userLogin(account, password) }, loginData)
+
+    }
 
 登录请求搞定，就是这么简单...
